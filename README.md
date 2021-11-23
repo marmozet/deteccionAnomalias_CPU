@@ -1,2 +1,3 @@
-# Tarea de Topicos Avanzados de Inteligencias Artificial
+# Tarea de Topicos Avanzados de Inteligencia Artificial
 
+## Dataset Utilizada: https://www.kaggle.com/boltzmannbrain/nab
