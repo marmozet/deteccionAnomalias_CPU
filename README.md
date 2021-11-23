@@ -2,4 +2,5 @@
 
 ## Dataset Utilizada: https://www.kaggle.com/boltzmannbrain/nab
 
-## Notebook en Kaggle: https://www.kaggle.com/juanaguacate/iforest-vs-lof-en-espa-ol?scriptVersionId=80530735
+## Notebook en Kaggle: 
+## https://www.kaggle.com/juanaguacate/iforest-vs-lof-en-espa-ol?scriptVersionId=80533666
